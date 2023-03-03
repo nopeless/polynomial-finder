@@ -1,5 +1,7 @@
 # Polynomial finder implementation in Rust
 
+Author: [@nopeless](https://github.com/nopeless)
+
 Simple polynomial finder based on a few mathematical rules
 
 Please :star: if you found this intersting
